@@ -1,0 +1,32 @@
+_repo: Trading-Jeff-and-his-Dog_41690
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kjelgaard, Jim
+    aliases:
+    - Kjelgaard, James Arthur
+    - Elgard, Jim
+    birthdate: 1910
+    deathdate: 1959
+    gutenberg_agent_id: '37042'
+    url: http://www.gutenberg.org/2009/agents/37042
+    wikipedia: http://en.wikipedia.org/wiki/Jim_Kjelgaard
+description: Adventures of an 18-year-old peddler and his dog, who live by their wits
+  in the Southern mountains.
+gutenberg_issued: '2012-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41690'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcsh 'Peddlers -- Juvenile fiction'
+title: Trading Jeff and His Dog
+url: http://www.gutenberg.org/ebooks/41690
